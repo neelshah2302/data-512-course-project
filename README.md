@@ -76,9 +76,8 @@ The results from this analysis are produced in the form of 3 Visualizations:
 
 
   2. Time series graph of total acres burned per year for the fires occurring in the specified distance from your city
-     
-     <img width="878" alt="Screenshot 2023-11-08 at 7 14 08 PM" src="https://github.com/neelshah2302/data-512-course-project/assets/122260079/587f44c1-58ba-4e56-8e18-602e8fcc19dd">
 
+     <img width="844" alt="Screenshot 2023-11-08 at 1 50 33 AM" src="https://github.com/neelshah2302/data-512-course-project/assets/122260079/f8c940ec-2f03-4f15-995c-9bcca8c04b64">
 
   3. Time series graph containing your fire smoke estimate for your city and the AQI estimate for your city.
      
